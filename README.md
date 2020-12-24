@@ -13,6 +13,6 @@ Xây dựng ứng dụng Note (Đây là phần thực hành của nội dung ch
 
  3. **Cập nhật / Sửa**
  * **Trước khi sửa:**
- [trước](https://github.com/Nam866/mynote/images/sua1.png)
+ [trước](https://github.com/Nam866/my_app/blob/master/images/sua1.png)
  * **Sau khi sửa:**
  [sau](https://github.com/Nam866/mynote/images/sua2.png)
